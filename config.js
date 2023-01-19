@@ -44,31 +44,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
-global.sgc = 'https://chat.whatsapp.com/L5A62ACjj9IDiIZ962HsYp'
+global.sig = 'https://www.instagram.com/jstme._____'
+global.sgh = 'CARI SENDIRI'
+global.sgc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = 'PERSONAL MESSAGE OWNER'
+global.povo = 'PERSONAL MESSAGE OWNER'
+global.pgopay = 'PERSONAL MESSAGE OWNER'
+global.ppulsa = 'PERSONAL MESSAGE OWNER'
+global.ppulsa2 = 'PERSONAL MESSAGE OWNER'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '60147366955'
-global.namebot = 'Kyzo'
-global.nameown = '𝕻𝖚𝖙'
+global.nomorbot = '60182720133'
+global.nomorown = '60177302593'
+global.namebot = 'QYLEBOTZ'
+global.nameown = 'QYLE'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60147366955', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['60177302593', 'QYLE', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,20 +113,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝕻𝖚𝖙 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝕻𝖚𝖙 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝕻𝖚𝖙 𝕯𝖊𝖛'
+global.wm = '                「 QyleBotzあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘QyleBotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ QyleBotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝕻𝖚𝖙 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ QyleBotz Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg'
+global.thumbbc = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
