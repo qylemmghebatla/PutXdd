@@ -21,13 +21,13 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+let wibh = moment.tz('Asia/Kuala_Lumpur').format('HH')
+    let wibm = moment.tz('Asia/Kuala_Lumpur').format('mm')
+    let wibs = moment.tz('Asia/Kuala_Lumpur').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
-    let locale = 'id'
+    let locale = 'ms'
     // d.getTimeZoneOffset()
     // Offset -420 is 18.00
     // Offset    0 is  0.00
