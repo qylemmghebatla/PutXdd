@@ -20,6 +20,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
+
+//trolololol nah autoread
+global.autoReadAll = true
+global.available = true
+global.autoReadGc = true
+
+
+
+
 /*============= WAKTU =============*/
 let wibh = moment.tz('Asia/Kuala_Lumpur').format('HH')
     let wibm = moment.tz('Asia/Kuala_Lumpur').format('mm')
@@ -49,7 +58,7 @@ global.sgh = 'CARI SENDIRI'
 global.sgc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
-global.autoReadGc = true
+
 /*============== PAYMENT ==============*/
 global.pdana = 'PERSONAL MESSAGE OWNER'
 global.povo = 'PERSONAL MESSAGE OWNER'
@@ -63,7 +72,6 @@ global.nomorbot = '60182720133'
 global.nomorown = '60177302593'
 global.namebot = 'QYLEBOTZ'
 global.nameown = 'QYLE'
-global.autoread = true
 
 /*============== STAFF ==============*/
 global.owner = [
