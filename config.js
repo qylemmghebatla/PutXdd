@@ -49,7 +49,7 @@ global.sgh = 'CARI SENDIRI'
 global.sgc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
-
+global.autoread = true
 /*============== PAYMENT ==============*/
 global.pdana = 'PERSONAL MESSAGE OWNER'
 global.povo = 'PERSONAL MESSAGE OWNER'
