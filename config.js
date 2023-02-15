@@ -57,7 +57,7 @@ global.sig = 'https://www.instagram.com/jstme._____'
 global.sgh = 'CARI SENDIRI'
 global.sgc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+//global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
 global.pdana = 'PERSONAL MESSAGE OWNER'
