@@ -70,13 +70,13 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '60182720133'
 global.nomorown = '60177302593'
-global.namebot = 'QYLEBOTZ'
-global.nameown = 'QYLE'
+global.namebot = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
+global.nameown = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊💘 𖥔 ࣪ ᥫ᭡'
 
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60177302593', 'QYLE', true]
+  ['60177302593', '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊💘 𖥔 ࣪ ᥫ᭡', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -121,9 +121,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 QyleBotzあ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘QyleBotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ QyleBotz'
+global.wm = '                「 ✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ QyleBotz Whatsapp ʙᴏᴛ'
@@ -131,10 +131,10 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg'
-global.thumbbc = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/b73dad853c6fd4c9c694b.jpg'
+global.thumb = 'https://telegra.ph/file/7a3c2975aac8cc97f35c3.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/7a3c2975aac8cc97f35c3.jpg'
+global.thumbbc = 'https://telegra.ph/file/7a3c2975aac8cc97f35c3.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/7a3c2975aac8cc97f35c3.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
